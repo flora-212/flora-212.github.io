@@ -8,10 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>B.S. in Computer Science and Technology</p>
-    <p>School of the Gifted Young</p>
-    <p>University of Science and Technology of China</p>
+  more_info: 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -31,6 +28,9 @@ Hi!（｡´∀｀）ﾉ
 My name is Xiaoyan Guo.  
 
 I am a senior undergraduate student at University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)) and [a member of the School of the Gifted Young](https://en.scgy.ustc.edu.cn/main.htm). Starting in Fall 2026, I will pursue a PhD at the University of Virginia ([UVA](https://www.virginia.edu/)), where I will join the [Hiprel Group](https://wenxiwang.github.io/group.html) under the supervision of Prof. [Wenxi Wang](https://wenxiwang.github.io/).
+
+My research interests include AI-assisted software engineering, software testing, and LLMs for code. I am especially interested in applying large language models to program analysis, automated testing, and concurrent software reliability.
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
