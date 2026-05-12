@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://flora-212.github.io/al-folio/sitemap.xml
+Sitemap: https://flora-212.github.io/sitemap.xml
