@@ -32,6 +32,8 @@ My name is Xiaoyan Guo.
 
 I am a senior undergraduate student at University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)) and [a member of the School of the Gifted Young](https://en.scgy.ustc.edu.cn/main.htm). Starting in Fall 2026, I will pursue a PhD at the University of Virginia ([UVA](https://www.virginia.edu/)), where I will join the [Hiprel Group](https://wenxiwang.github.io/group.html) under the supervision of Prof. [Wenxi Wang](https://wenxiwang.github.io/).
 
+[!](/assets/img/prof_pic.jpg)
+
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
