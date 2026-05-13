@@ -4,7 +4,7 @@ cv:
   email: floraa@mail.ustc.edu.cn
   location: Suzhou, Jiangsu, China
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Research interests include AI-assisted software engineering, large language models, software testing, and program analysis. Incoming PhD student at the University of Virginia.
 
   # social_networks:
   #   - network: X
@@ -138,14 +138,23 @@ cv:
     #     icon: fa-solid fa-envelope
 
     Projects:
+      - name: LLM-Assisted C-to-Rust Concurrent Program Migration
+        summary: Research on leveraging large language models and verification tools to automate the migration of concurrent C programs into safe and idiomatic Rust code.
+        highlights:
+          - Designed an iterative multi-stage migration pipeline combining LLM-based translation with automated verification and repair.
+          - Evaluated concurrency safety, functional equivalence, and Rust idiomaticity using tools such as Loom and Clippy.
+          - Conducted empirical studies on benchmark concurrent programs to analyze migration correctness and robustness.
+        start_date: 2026-02
+        end_date: 2026-05
+
       - name: AI-Driven Multi-Agent Frameworks for Adaptive Code Completion
         summary: Research on adaptive multi-agent systems for AI-assisted code completion and automated prompt engineering.
         highlights:
         - Evaluated cross-project adaptation and robustness of multi-agent code completion systems.
         - Developed prompt-fixing strategies and automated evaluation workflows.
         - Built a VSCode extension for Python-based GitHub Copilot interaction.
-          start_date: 2025-08
-          end_date: 2025-11
+        start_date: 2025-08
+        end_date: 2025-11
 
       - name: Enhancing MLLMs Reasoning via Difficulty-Aware Group Normalization
         summary: Research on improving multimodal large language model reasoning with difficulty-aware reinforcement learning strategies.
@@ -153,8 +162,8 @@ cv:
         - Designed difficulty-aware regrouping methods for RLVR training.
         - Evaluated performance across multimodal reasoning benchmarks.
         - Achieved consistent improvements over GRPO/DAPO baselines.
-          start_date: 2025-06
-          end_date: 2025-09
+        start_date: 2025-06
+        end_date: 2025-09
 
       - name: Knowledge-Enhanced Agents Based on RAG and Web Search in LLM
         summary: Developed knowledge-grounded LLM agents integrating retrieval-augmented generation and real-time web search.
